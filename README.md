@@ -1,0 +1,2 @@
+# Amazon Sales Overview
+ This repository contains a complete analysis of Amazon product sales data. It includes data cleaning, exploratory analysis, monthly sales trends, and key business insights. The project uses Python (Pandas, Matplotlib, Seaborn) within a Jupyter Notebook environment and is designed to identify top-performing months, shipping preferences, and revenue patterns. Ideal for business intelligence and data-driven decision-ma
